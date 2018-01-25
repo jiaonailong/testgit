@@ -10,5 +10,9 @@ BBBBBBBBBB
 11111111111111111
 =======
 bBbbbbbbbbbbbbbbbbbb
+<<<<<<< HEAD
 CCCCCCCCCCCC
+=======
+111111111111111111111111111
+>>>>>>> refs/remotes/origin/master
 >>>>>>> dev
